@@ -1,1 +1,1 @@
-holbertonschool-is-cool
+holbertonschool-is-nice
