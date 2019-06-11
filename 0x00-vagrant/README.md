@@ -1,1 +1,1 @@
-This is the documentation for the Vagrant instance environment.
+This is a documentation of my hello ubuntu.
