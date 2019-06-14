@@ -1,1 +1,1 @@
-echo "holbertonschool-is-nice"
+echo "Holbertonschool-is-cool 19"
