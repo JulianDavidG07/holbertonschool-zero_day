@@ -1,1 +1,1 @@
-holbertonschool-is-nice
+echo "holbertonschool-is-nice"
