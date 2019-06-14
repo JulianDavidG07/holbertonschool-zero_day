@@ -1,1 +1,1 @@
-holbertonschool-is-cool
+echo "Holbertonschool-is-cool 19"
